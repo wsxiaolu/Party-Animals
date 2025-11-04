@@ -1,4 +1,4 @@
-                                                                                            Party-Animals
+Party-Animals
                                                                                             
 <img width="1440" height="900" alt="捕获" src="https://github.com/user-attachments/assets/57724695-51e0-400a-a7f2-f2a7ed47df1b" />
 
